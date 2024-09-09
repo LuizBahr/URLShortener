@@ -1,0 +1,52 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+body {
+   background-color: azure !important;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 85vh;
+}
+
+.header {
+  padding: 2rem;
+  text-align: center;
+}
+
+.icon {
+  height: 100px;
+}
+
+.formURL {
+  text-align: center;
+}
+
+.labelURL {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.formURL {
+  text-align: center;
+  align-items: center;
+}
+
+.formURL .form-control {
+  width: 50%; 
+  display: block; 
+  margin: 0 auto;
+  text-align: center;
+}
+
+#encurtar {
+  margin-top: 15px;
+}
+
+.URLEncurtada {
+  text-align: center;
+}
